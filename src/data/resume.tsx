@@ -57,13 +57,13 @@ export const DATA = {
       },
       Instagram: {
         name: "Instagram",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.instagram.com/markos_________/",
         icon: Icons.instagram,
         navbar: true,
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "ayoub.markhouss@gmail.com",
         icon: Icons.email,
 
         navbar: false,
