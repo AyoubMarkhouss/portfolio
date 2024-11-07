@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Junior Front-End Developer. In fact, Im an artist. Very active on Github and Intagram.",
+    "Junior Front-End Developer. In fact, Im an artist.",
   summary:
     "I&apos;m a web developer with a strong focus on front-end development, adept in technologies like HTML, CSS, JavaScript, React.js, and Next.js. My passion lies in building dynamic, scalable web applications that offer seamless user experiences. Alongside coding, I bring a creative edge with my background in graphic design crafting visual identities, logos, and enhancing brand aesthetics. As a photographer, I capture stories through my lens, infusing my designs with an eye for composition and detail. Whether collaborating with a team or taking on solo projects, I&apos;m always eager for new challenges and to stay ahead of the latest tech trends.",
   avatarUrl: "/ayoub.jpeg",
