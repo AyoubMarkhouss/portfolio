@@ -39,6 +39,7 @@ export default function Page() {
           </div>
         </div>
       </section>
+      
       <section id="about">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>
           <h2 className="bigi text-2xl md:text-5xl ">About</h2>
